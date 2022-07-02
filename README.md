@@ -4,7 +4,7 @@
 
 Deployed Site: [fanland.netlify.app/](https://fanland.netlify.app/)
 
-Learn more about [Remix Stacks](https://remix.run/stacks).
+Learn more about [fan land](https://fanland.netlify.app).
 
 ```
 npx create-remix --template netlify-templates/kpop-stack
